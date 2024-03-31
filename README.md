@@ -15,3 +15,4 @@ The Invoice Processor works by taking input images of receipts and processing th
 
 # Screenshots 
 Kindly find the screenshot of the working project below : 
+<img width="995" alt="Screenshot 2024-03-31 at 4 20 15 PM" src="https://github.com/19UroojKhan/Invoice-Processor-by-Doc-AI/assets/67606435/12652e43-5f43-4f19-a2e8-50c6c96caeba"> 
