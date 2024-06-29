@@ -1,4 +1,5 @@
-Invoice-Processor-by-Doc-AI
+# Invoice-Processor-by-Doc-AI
+
 The Invoice Processor is a Python script developed as part of a company project to streamline invoice handling tasks. Leveraging Doc AI, this tool automates the extraction of billing details from receipts, aiming to minimize manual effort and mitigate human error in data entry processes. By leveraging machine learning algorithms, the Invoice Processor streamlines the extraction of crucial billing information from various types of receipts.
 
 # Tools-and-Technologies:
